@@ -1,0 +1,22 @@
+.banner1{
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 100px 0;
+    max-width: 1200px;
+}
+
+.banner-pic{
+    width: 500px;
+}
+
+.banner-photo{
+    width: 30%;
+    height: 200px;
+    object-fit:cover;
+}
+
+.flag{
+    width: 85px;
+    margin: 20px 0;
+}
